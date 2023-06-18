@@ -33,8 +33,8 @@ export default defineUserConfig({
             text: '前端',
             children:[
                 {
-                    text: 'dome',
-                    link: '/前端/dome.html'
+                    text: 'js',
+                    link: '/前端/js.html',
                 }
             ]
         }
