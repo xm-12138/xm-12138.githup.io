@@ -1,6 +1,6 @@
 # java script
 
-# 函数
+### 函数
 
 ```jsx
 <!DOCTYPE html>
