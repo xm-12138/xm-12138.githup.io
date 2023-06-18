@@ -33,8 +33,8 @@ export default defineUserConfig({
             text: '前端',
             children:[
                 {
-                    text: '硅谷甄选',
-                    link: '/前端/硅谷甄选.html'
+                    text: 'dome',
+                    link: '/前端/dome.html'
                 }
             ]
         }
